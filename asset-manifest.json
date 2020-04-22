@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/sushitime/static/css/main.28b852b5.chunk.css",
-    "main.js": "/sushitime/static/js/main.3757a8b2.chunk.js",
-    "main.js.map": "/sushitime/static/js/main.3757a8b2.chunk.js.map",
-    "runtime-main.js": "/sushitime/static/js/runtime-main.a1cde225.js",
-    "runtime-main.js.map": "/sushitime/static/js/runtime-main.a1cde225.js.map",
+    "main.css": "/sushitime/static/css/main.5de0aa16.chunk.css",
+    "main.js": "/sushitime/static/js/main.9cb38a90.chunk.js",
+    "main.js.map": "/sushitime/static/js/main.9cb38a90.chunk.js.map",
+    "runtime-main.js": "/sushitime/static/js/runtime-main.6ddae756.js",
+    "runtime-main.js.map": "/sushitime/static/js/runtime-main.6ddae756.js.map",
     "static/css/2.2cfa1b23.chunk.css": "/sushitime/static/css/2.2cfa1b23.chunk.css",
-    "static/js/2.14399b5d.chunk.js": "/sushitime/static/js/2.14399b5d.chunk.js",
-    "static/js/2.14399b5d.chunk.js.map": "/sushitime/static/js/2.14399b5d.chunk.js.map",
+    "static/js/2.6ec1cd67.chunk.js": "/sushitime/static/js/2.6ec1cd67.chunk.js",
+    "static/js/2.6ec1cd67.chunk.js.map": "/sushitime/static/js/2.6ec1cd67.chunk.js.map",
     "index.html": "/sushitime/index.html",
-    "precache-manifest.041c47dd7bc3b5b55fc048f7639fde7b.js": "/sushitime/precache-manifest.041c47dd7bc3b5b55fc048f7639fde7b.js",
+    "precache-manifest.f34993ae152d701dc7db10efe59213d1.js": "/sushitime/precache-manifest.f34993ae152d701dc7db10efe59213d1.js",
     "service-worker.js": "/sushitime/service-worker.js",
     "static/css/2.2cfa1b23.chunk.css.map": "/sushitime/static/css/2.2cfa1b23.chunk.css.map",
-    "static/css/main.28b852b5.chunk.css.map": "/sushitime/static/css/main.28b852b5.chunk.css.map",
-    "static/js/2.14399b5d.chunk.js.LICENSE.txt": "/sushitime/static/js/2.14399b5d.chunk.js.LICENSE.txt",
+    "static/css/main.5de0aa16.chunk.css.map": "/sushitime/static/css/main.5de0aa16.chunk.css.map",
+    "static/js/2.6ec1cd67.chunk.js.LICENSE": "/sushitime/static/js/2.6ec1cd67.chunk.js.LICENSE",
     "static/media/persik.png": "/sushitime/static/media/persik.4e1ec840.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.a1cde225.js",
+    "static/js/runtime-main.6ddae756.js",
     "static/css/2.2cfa1b23.chunk.css",
-    "static/js/2.14399b5d.chunk.js",
-    "static/css/main.28b852b5.chunk.css",
-    "static/js/main.3757a8b2.chunk.js"
+    "static/js/2.6ec1cd67.chunk.js",
+    "static/css/main.5de0aa16.chunk.css",
+    "static/js/main.9cb38a90.chunk.js"
   ]
 }
