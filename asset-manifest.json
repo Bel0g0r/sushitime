@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/sushitime/static/css/main.28b852b5.chunk.css",
-    "main.js": "/sushitime/static/js/main.f6efce29.chunk.js",
-    "main.js.map": "/sushitime/static/js/main.f6efce29.chunk.js.map",
+    "main.js": "/sushitime/static/js/main.fd631897.chunk.js",
+    "main.js.map": "/sushitime/static/js/main.fd631897.chunk.js.map",
     "runtime-main.js": "/sushitime/static/js/runtime-main.a1cde225.js",
     "runtime-main.js.map": "/sushitime/static/js/runtime-main.a1cde225.js.map",
     "static/css/2.2cfa1b23.chunk.css": "/sushitime/static/css/2.2cfa1b23.chunk.css",
     "static/js/2.bb22e1a8.chunk.js": "/sushitime/static/js/2.bb22e1a8.chunk.js",
     "static/js/2.bb22e1a8.chunk.js.map": "/sushitime/static/js/2.bb22e1a8.chunk.js.map",
     "index.html": "/sushitime/index.html",
-    "precache-manifest.d08e7528230a35e31acfe3cdf8dbc9de.js": "/sushitime/precache-manifest.d08e7528230a35e31acfe3cdf8dbc9de.js",
+    "precache-manifest.410d77ba700e9f0d1ed0e4b8ac96bed4.js": "/sushitime/precache-manifest.410d77ba700e9f0d1ed0e4b8ac96bed4.js",
     "service-worker.js": "/sushitime/service-worker.js",
     "static/css/2.2cfa1b23.chunk.css.map": "/sushitime/static/css/2.2cfa1b23.chunk.css.map",
     "static/css/main.28b852b5.chunk.css.map": "/sushitime/static/css/main.28b852b5.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.2cfa1b23.chunk.css",
     "static/js/2.bb22e1a8.chunk.js",
     "static/css/main.28b852b5.chunk.css",
-    "static/js/main.f6efce29.chunk.js"
+    "static/js/main.fd631897.chunk.js"
   ]
 }
