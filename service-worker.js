@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/sushitime/precache-manifest.6dff45ce8564bfa9035e9c9b007b76b5.js"
+  "/sushitime/precache-manifest.79da2735f33beb76690481a977bd9694.js"
 );
 
 self.addEventListener('message', (event) => {
