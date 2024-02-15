@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sushitime/static/css/main.8be44fe2.css",
-    "main.js": "/sushitime/static/js/main.41f1c707.js",
+    "main.js": "/sushitime/static/js/main.e34d7742.js",
     "static/js/356.d2c24d52.js": "/sushitime/static/js/356.d2c24d52.js",
     "static/media/MaterialCommunityIcons.ttf": "/sushitime/static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
     "static/media/Ionicons.ttf": "/sushitime/static/media/Ionicons.3517aeaa34b2f8cd8eef.ttf",
@@ -30,12 +30,12 @@
     "favicon-16.png": "/sushitime/favicon-16.png",
     "serve.json": "/sushitime/serve.json",
     "main.8be44fe2.css.map": "/sushitime/static/css/main.8be44fe2.css.map",
-    "main.41f1c707.js.map": "/sushitime/static/js/main.41f1c707.js.map",
+    "main.e34d7742.js.map": "/sushitime/static/js/main.e34d7742.js.map",
     "356.d2c24d52.js.map": "/sushitime/static/js/356.d2c24d52.js.map"
   },
   "entrypoints": [
     "static/js/356.d2c24d52.js",
     "static/css/main.8be44fe2.css",
-    "static/js/main.41f1c707.js"
+    "static/js/main.e34d7742.js"
   ]
 }
